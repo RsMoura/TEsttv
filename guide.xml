@@ -605,7 +605,7 @@
     <icon src="http://www.lineup.tv.br/canais/tvterradosal.gif|http://www.lineup.tv.br/canais/redesuper.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
-  <channel id="Globo Minas">
+  <channel id="Globominas.br">
     <display-name lang="pt">Globo Minas</display-name>
     <icon src="http://www.lineup.tv.br/canais/bloomberg.gif" />
     <url>http://www.lineup.net.br</url>
@@ -615,12 +615,12 @@
     <icon src="http://www.lineup.tv.br/canais/premiere7.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
-  <channel id="Globo Rio">
+  <channel id="Globorj.br">
     <display-name lang="pt">Globo Rio</display-name>
     <icon src="http://www.lineup.tv.br/canais/tvunivaledoaco.gif|http://www.lineup.tv.br/canais/cultura.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
-  <channel id="Globo SP">
+  <channel id="Globosp.br">
     <display-name lang="pt">Globo SP</display-name>
     <icon src="http://www.lineup.tv.br/canais/shopwebtv.gif" />
     <url>http://www.lineup.net.br</url>
